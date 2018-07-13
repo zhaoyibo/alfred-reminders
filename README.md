@@ -1,9 +1,12 @@
 alfred-reminders
 ================
+Fork 自 alfred-reminders，并加强中文语句的处理部分，支持简体和繁体。
+
+This is forked from alfred-reminders, and enhances Chinese NLP support Simplified and Traditional.
 
 This creates a new reminder in Reminders.app
 
-[Download the latest version](https://github.com/surrealroad/alfred-reminders/releases/latest), for Alfred v3 and macOS
+[Download the latest version](https://github.com/zhaoyibo/alfred-reminders/releases/latest), for Alfred v3 and macOS
 
 More information at [Alfred Forums](http://www.alfredforum.com/topic/917-reminders/)
 
